@@ -43,6 +43,6 @@ You selected: Right to Education
 
 - **Yash** – Core logic, structure, GitHub setup  
   [@yash1218](https://github.com/yash1218)
-- **[Her Name]** – Code formatting, research, and testing  
+- **Sharvari** – Code formatting, research, and testing  
   [@SharvariTenkale](https://github.com/SharvariTenkale)
 
