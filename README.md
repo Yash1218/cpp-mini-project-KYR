@@ -39,4 +39,10 @@ Enter your choice: 1
 You selected: Right to Education
 → The Right to Education is a fundamental right under Article 21A...
 
+## 👥 Contributors
+
+- **Yash** – Core logic, structure, GitHub setup  
+  [@yash1218](https://github.com/yash1218)
+- **[Her Name]** – Code formatting, research, and testing  
+  [@SharvariTenkale](https://github.com/SharvariTenkale)
 
